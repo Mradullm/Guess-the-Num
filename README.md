@@ -26,7 +26,7 @@ Guess the number between 1 and 100: 65
 
 ### ▶️ Run the Game
 
-Clone the repository and run the Python file:
+Clone the repository and run the Python file :
 
 ```bash
 git clone https://github.com/Mradullm/guess-the-number.git
